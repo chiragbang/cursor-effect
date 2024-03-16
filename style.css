@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+}
+
+html{
+    cursor: none;
+}
+
+.title{
+ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-block-start: 50px;
+    font-size: 3rem;
+}
+
+.cursor{
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    mix-blend-mode: difference;
+}
